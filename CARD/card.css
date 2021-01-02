@@ -1,0 +1,20 @@
+/* jumbotron */
+.jumbotron{
+    background-color: aqua;
+    background-size: cover;
+    height: 900px;
+    text-align: center;
+    position: relative;
+    margin-top: relative;
+}
+.jumbotron .container{
+    z-index: 1;
+    position: relative;
+}
+
+.jumbotron .display-4 {
+    color:black;
+    font-size: 3ch;
+    
+    
+}
